@@ -17,7 +17,12 @@ https://github.com/user-attachments/assets/d9b93a4e-fa58-4ea6-98ec-23837b0eaea7
 https://github.com/user-attachments/assets/a8f1a0c2-30dc-4e69-87c6-f38ea7045eff
 
 ### Prototype 4
-
 https://github.com/user-attachments/assets/d1bd40f9-7309-49dd-8b28-58fbbaa10655
 
+## Prototype 4 - Ex
+
+
+
+
+https://github.com/user-attachments/assets/76441edf-64e7-4dca-b79f-35f1fd27bfb4
 
