@@ -25,3 +25,5 @@ https://github.com/user-attachments/assets/76441edf-64e7-4dca-b79f-35f1fd27bfb4
 ## Prototype 5
 https://github.com/user-attachments/assets/4615c9e7-2525-4f9c-b652-b90ad562e261
 
+### Prototype 5 - Ex
+https://github.com/user-attachments/assets/ac7e0a2e-3503-4711-8e71-32abbf881936
