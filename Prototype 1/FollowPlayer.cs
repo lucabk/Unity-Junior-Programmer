@@ -3,12 +3,7 @@ using UnityEngine;
 public class FollowPlayer : MonoBehaviour
 {
     public GameObject player;
-    private Vector3 cameraOffset = new Vector3(0, 10, -9);
-
-    void Start()
-    {
-        
-    }
+    public Vector3 cameraOffset = new Vector3(0, 10, -9);
 
     // Si usa LateUpdate perché così si aggiorna prima il movimento del veicolo e poi la camera (no stuttering)
     void LateUpdate()
